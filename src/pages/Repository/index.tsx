@@ -76,7 +76,7 @@ const Repository: React.FC = () => {
               <span>Stars</span>
             </li>
             <li>
-              <strong>{repository.full_name}</strong>
+              <strong>{repository.forks_count}</strong>
               <span>Forks</span>
             </li>
             <li>
