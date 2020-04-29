@@ -1,14 +1,17 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/DouglasFuelber/gostack-github-explorer-web/blob/master/src/assets/logo.svg" alt="Github Explorer" width="400">
+    <img src="https://github.com/DouglasFuelber/gostack-github-explorer-web/blob/master/src/assets/logo.svg" alt="Github Explorer" width="300">
   <br>
 </h1>
 
 <h3 align="center">Explorador de repositórios do Github</h3>
+
+  <img src="https://github.com/andrewdourado/github-explorer/blob/master/demo.gif" width="100%" alt="Github Explorer demo" />   
+   
 <p align="center">
   
   <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/andrewdourado/github-explorer?style=for-the-badge">
-  <a href="https://github.com/andrewdourado/github-explorer/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/andrewdourado/github-explorer?style=for-the-badge"></a>
+  <a href="https://github.com/andrewdourado/github-explorer/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/andrewdourado/github-explorer?logo=license&style=for-the-badge"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrewdourado/github-explorer?style=for-the-badge">
   <a href="https://github.com/andrewdourado/github-explorer/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/andrewdourado/github-explorer?style=for-the-badge"></a>
 </p>
@@ -54,4 +57,4 @@ $ yarn start
 Este projeto foi desenvolvido durante o Bootcamp GoStack 11 da <a href="https://rocketseat.com.br/" target="_blank" rel="noopener noreferrer">Rocketseat</a>.
 
 ## Licença
-Esse projeto está sob a licença [MIT](https://github.com/DouglasFuelber/gostack-github-explorer-web/blob/master/LICENSE) © [André Dourado](https://github.com/andrewdourado)
+Esse projeto está sob a licença [MIT](https://github.com/andrewdourado/github-explorer/blob/master/LICENSE) © [André Dourado](https://github.com/andrewdourado)
