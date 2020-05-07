@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/DouglasFuelber/gostack-github-explorer-web/blob/master/src/assets/logo.svg" alt="Github Explorer" width="300">
+    <img src="https://github.com/andrewdourado/gostack-github-explorer-web/blob/master/src/assets/logo.svg" alt="Github Explorer" width="300">
   <br>
 </h1>
 
